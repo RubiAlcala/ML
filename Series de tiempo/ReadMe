@@ -1,0 +1,4 @@
+El código Air Passengers tiene una base de datos de pasajeros de una aerolinea, se usa la librería de 
+Prophet para hacer una predicción.
+El código de time series, tiene varias metodologías de ejemplo para predecir con series de tiempo, 
+como ARIMA, prophet, LSTM (Long Short-Term Memory) de redes neuronales recurrentes.
