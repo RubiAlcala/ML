@@ -1,0 +1,6 @@
+En estos archivos vemos diferentes técnicas para análisis de texto. 
+
+En el archivo de análisis de texto vemos técnicas como Doc2Vec.
+En embedings vemos Bag of Words (BoW), Word2Vec y Doc2Vec.
+En sentiment analysis, hay código para análisis de sentimientos.
+En tf_idf, está el código para utilizar esa técnica.
